@@ -2,7 +2,7 @@
 
 ## Synopsis
 Easy inline test writing.
-tapered uses **Babel** and **Webpack** to generate **Tape** test files from test code written inline in comments
+tapered uses **Babel** and **Webpack** to generate **Tape** test files from test code written inline in comments.
 
 ## Installation
 npm install tapered.js
